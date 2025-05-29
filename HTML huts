@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfolio Noortje</title>
+  <link rel="main" href="code uitproberen figma.css">
+ # <meta charset="UTF-8">
+ # <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ # <title>Portfolio Noortje</title>
 </head>
 <body>
   <h1>Goedemiddag</h1>
