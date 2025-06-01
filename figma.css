@@ -51,10 +51,12 @@ body {
 .v12_4 { /*foto kwartet op tafel*/
   width: 100%;
   height: 960px;
+  object-fit: contain;
   background: url("kwartet tafel.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
+  background-size: contain;
   opacity: 1;
   position: absolute;
   top: 1804px;
@@ -64,16 +66,18 @@ body {
 .v12_5 {  /*Foto Noortje*/
   width: 415px;
   height: 499px;
-  background: url("foto Noortje.jpg");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
   position: absolute;
   top: 394px;
   left: 81px;
   overflow: hidden;
 }
+.fit-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* or cover, based on your preference */
+  display: block;
+}
+
 .v12_6 { /*Introtekst wit*/
   width: 677px;
   color: rgba(255,255,255,1);
