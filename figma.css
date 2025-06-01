@@ -51,7 +51,7 @@ body {
 .v12_4 { /*foto kwartet op tafel*/
   width: 100%;
   height: 960px;
-  background: url("../images/v12_4.png");
+  background: url("kwartet tafel.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -64,7 +64,7 @@ body {
 .v12_5 {  /*Foto Noortje*/
   width: 415px;
   height: 499px;
-  background: url("../images/v12_5.png");
+  background: url("foto Noortje.jpg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
