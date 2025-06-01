@@ -4,7 +4,7 @@
 body {
   font-size: 14px;
 }
-.v1_3 {
+.v1_3 { /*Hemelsblauwe achtergrond*/
   width: 100%;
   height: 3120px;
   background: rgba(133,172,239,1);
@@ -14,7 +14,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v12_2 {
+.v12_2 { /*Witte banner*/
   width: 100%;
   height: 311px;
   background: rgba(255,255,255,1);
@@ -24,7 +24,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v1_6 {
+.v1_6 { /*Hoofdtitel banner*/
   width: 916px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -36,7 +36,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v1_7 {
+.v1_7 { /*Subtitel banner*/
   width: 1100px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -74,7 +74,7 @@ body {
   left: 81px;
   overflow: hidden;
 }
-.v12_6 {
+.v12_6 { /*Introtekst wit*/
   width: 677px;
   color: rgba(255,255,255,1);
   position: absolute;
@@ -98,7 +98,7 @@ body {
   opacity: 1;
   text-align: right;
 }
-.v12_9 {
+.v12_9 { /*Wit achtergrondvlak*/
   width: 100%;
   height: 601px;
   background: rgba(255,255,255,1);
@@ -108,7 +108,7 @@ body {
   left: 0px;
   overflow: hidden;
 }
-.v12_10 {
+.v12_10 { /*Politie Humor Kwartet*/
   width: 278px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -120,7 +120,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_19 {
+.v12_19 { /*Gekke Bekkies*/
   width: 278px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -132,7 +132,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_21 {
+.v12_21 { /*Rozenwiegje*/
   width: 278px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -144,7 +144,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_11 {
+.v12_11 { /*Babymonitor*/
   width: 278px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -156,7 +156,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_13 {
+.v12_13 { /*Grafisch werk*/
   width: 278px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -168,7 +168,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_15 {
+.v12_15 { /*Tekeningen*/
   width: 380px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -180,7 +180,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_17 {
+.v12_17 { /*Projecten*/
   width: 278px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -192,7 +192,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_23 {
+.v12_23 { /*Opleiding*/
   width: 278px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -204,7 +204,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_25 {
+.v12_25 { /*Over Noortje*/
   width: 278px;
   color: rgba(0,0,0,1);
   position: absolute;
@@ -216,7 +216,7 @@ body {
   opacity: 1;
   text-align: left;
 }
-.v12_27 {
+.v12_27 { /*Contact 1*/
   width: 500px;
   color: rgba(0,0,0,1);
   position: absolute;
